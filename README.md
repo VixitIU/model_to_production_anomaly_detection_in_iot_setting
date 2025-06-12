@@ -1,1 +1,1 @@
-# model_to_production_anomaly_prediction_in_iot_setting
+# model_to_production_anomaly_detection_in_iot_setting
