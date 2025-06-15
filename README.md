@@ -32,6 +32,13 @@ Using an unsupervised machine learning model, the system detects anomalies in re
 
 ---
 
+🧪 Model Testing
+The system is fully deployed online and can be tested by running the code from test.ipynb notebook.
+
+Simply change the temperature, humidity, and sound volume variables inside the notebook and re-run the prediction cell.
+
+---
+
 ## 📂 Project Structure
 
 ```bash
